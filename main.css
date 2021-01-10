@@ -1,0 +1,19 @@
+body {
+    background: url("/img/bg-pattern.png"), repeat, linear-gradient(to right, red 0%, #663399 100%);
+}
+
+.f-catamaran {
+    font-family: 'Catamaran', Helvetica, Arial, sans-serif;
+}
+
+.f-lato {
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+}
+
+.f-muli {
+    font-family: 'Mulish', Helvetica, Arial, sans-serif;
+}
+
+/* a.h-white:hover {
+    color: white;
+} */
