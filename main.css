@@ -1,5 +1,6 @@
 body {
     background: url("/img/bg-pattern.png"), repeat, linear-gradient(to right, red 0%, #663399 100%);
+    background-attachment: fixed;
 }
 
 .f-catamaran {
@@ -12,6 +13,13 @@ body {
 
 .f-muli {
     font-family: 'Mulish', Helvetica, Arial, sans-serif;
+}
+
+.telo {
+    background: url("/img/bg-cta.jpg"), no-repeat;
+    background-position: right top;
+    background-size: cover;
+    background-attachment: scroll;
 }
 
 /* a.h-white:hover {
